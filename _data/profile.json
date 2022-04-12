@@ -1,9 +1,9 @@
 {
-    "name": "Comedu School",
-    "image": "assets/img/user/user.png",
-    "email": "comeduschool@gmail.com",
-    "phone": "+82 10 1234 4567",
-    "birth": "Jan 1, 2001",
+    "name": "Jua Lee",
+    "image": "assets/img/user/postman.jpg",
+    "email": "jualee0402@gmail.com",
+    "phone": "+82 10 9741 8259",
+    "birth": "April 2, 1988",
     "resumes": [
         {
             "label": "RESUME",
@@ -16,10 +16,10 @@
     ],
     "socials": [
         {
-            "name": "twitter",
-            "icon": "mdi-twitter",
-            "class": "btn-twitter",
-            "link": ""
+            "name": "tistory",
+            "icon": "mdi-tistory",
+            "class": "btn-tistory",
+            "link": "https://1aha2oho.tistory.com/"
         },
         {
             "name": "linkedin",
