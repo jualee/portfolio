@@ -1,13 +1,13 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
+        "image": "assets/img/projects/project1.png",
         "title": "MoveNet Thunder 모델 이용 손흥민 이미지의 객체 포즈포인트/엣지라인 표현",
         "description": "My Description 01",
         "link": "https://colab.research.google.com/drive/101PtAMYSfzVhsutcL24ZqNoCsSRlJuV_?usp=sharing"
 
     },
     {
-        "image": "assets/img/projects/project2.jpg",
+        "image": "assets/img/projects/project2.PNG",
         "title": "MoveNet Thunder 모델 이용 동영상의 객체 포즈포인트/엣지라인 표현",
         "description": "My Description 02",
         "link": "https://colab.research.google.com/drive/101PtAMYSfzVhsutcL24ZqNoCsSRlJuV_?usp=sharing"
@@ -20,7 +20,7 @@
         "link": "https://colab.research.google.com/drive/1zPfgvdHyeGqZcLTo1Mv5zZqaZjzcs1tQ?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project4.jpg",
+        "image": "assets/img/projects/project4.png",
         "title": "윤동주 시, BBC 코리아 메인화면 웹크롤링 후 워드크라우드 생성",
         "description": "My Description 04",
         "link": "https://colab.research.google.com/drive/19x8Het0p6YsaBsVayDUIrjg8PU6aTzlc?usp=sharing"
@@ -32,7 +32,7 @@
         "link": "https://colab.research.google.com/drive/1uybhHALzboeiBVX07ooq2YvrXadpIEYg?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project6.jpg",
+        "image": "assets/img/projects/project6.PNG",
         "title": "beautiful soup 이용 청와대 사실은 이렇습니다 게시판 웹크롤링",
         "description": "My Description 06",
         "link": "https://colab.research.google.com/drive/1aOslf1MvGGJNOEDFGC7lP4oleY3q3ZAb?usp=sharing"
