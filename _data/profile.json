@@ -7,7 +7,7 @@
     "resumes": [
         {
             "label": "RESUME",
-            "link": "assets/resume/my-resume.txt"
+            "link": "assets/resume/myresume.docx"
         },
         {
             "label": "PORTFOLIO",
@@ -17,7 +17,7 @@
     "socials": [
         {
             "name": "tistory",
-            "icon": "mdi-tistory",
+            "icon": "assets/img/user/tistory.jpg",
             "class": "btn-tistory",
             "link": "https://1aha2oho.tistory.com/"
         },
