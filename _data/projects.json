@@ -7,9 +7,9 @@
     },
     {
         "image": "assets/img/projects/project2.jpg",
-        "title": "MoveNet: 손흥민 스켈레톤 추정",
+        "title": "MoveNet Thunder 모델 이용 이미지 조인트포인트/스켈레톤 추정, 동영상 조인트포인트/스켈레톤",
         "description": "My Description 02",
-        "link": "https://colab.research.google.com/drive/101PtAMYSfzVhsutcL24ZqNoCsSRlJuV_?usp=sharing"
+        "link": "https://colab.research.google.com/drive/101PtAMYSfzVhsutcL24ZqNoCsSRlJuV_?usp=sharing#scrollTo=TMF2sUSNenio"
 
     },
     {
